@@ -34,6 +34,12 @@ The project consists of the following main steps:
 5. Comparison of VADER and RoBERTa results
 6. Analysis of discrepancies between model predictions and actual ratings
 
+## Setup
+
+1. Clone this repository
+2. Install requirements: `pip install -r requirements.txt`
+3. Download the model file: `python download_model.py`
+
 ## How to Run
 
 1. Clone this repository
